@@ -56,7 +56,7 @@ Supermarkets cater to a wide range of customers with varying purchasing behavior
     │   ├── Supermarket Customer.csv                         <- The original data
     │
     └── notebooks   
-        └── Supermarket_Customer_Analysis.ipynb     <- Customer Retention Analysis with Cohort Notebook 
+        └── Supermarket_Customer_Behaviour_RFM_Analysis.ipynb     <- Customer Retention Analysis with Cohort Notebook 
 
 ## 🤝 Contribution
 Contributions are welcome! If you have suggestions for improvement, feel free to **open an issue or submit a pull request** on GitHub.
